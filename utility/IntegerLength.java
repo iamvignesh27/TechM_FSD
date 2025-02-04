@@ -15,7 +15,7 @@ public class IntegerLength {
 	}
 
 	public static void main(String[] args) {
-		int sampleNumber = 12345;
+		int sampleNumber = 985423;
 		System.out.println(Constants.RESULT_MESSAGE + getIntegerLength(sampleNumber));
 	}
 }
