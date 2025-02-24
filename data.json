@@ -1,0 +1,34 @@
+[
+    {
+      "id": 1,
+      "title": "AI Takes Over the World",
+      "category": "technology",
+      "content": "Artificial Intelligence (AI) is transforming industries by enhancing efficiency, automation, and decision-making.",
+      "image": "Images/ai.jpg",
+      "video": "Multimedia/ai-video.mp4"
+    },
+    {
+      "id": 2,
+      "title": "India Vs Pakistan",
+      "category": "sports",
+      "content": "Chasing 242, India reached the target in just 42.3 overs, scoring 244/4. Virat Kohli anchored the innings with a masterful 100 off 111 balls*, while Shreyas Iyer supported him well with 56 off 67. Shaheen Afridi took 2 wickets but was expensive, conceding 74 runs in 8 overs​",
+      "image": "https://img.republicworld.com/all_images/virat-kohli-1740332436135-16_9.webp",
+      "video": "Multimedia/sports-video.mp4"
+    },
+    {
+      "id": 3,
+      "title": "Budget Day Financial Year 2025",
+      "category": "politics",
+      "content": "The Union Budget 2025 aims to increase disposable income, boost MSME growth, and strengthen India's economic resilience through investments in key sectors. The challenge lies in its implementation to ensure long-term benefits",
+      "image": "https://media.assettype.com/outlookmoney/2025-02-01/np8trbgm/sitharaman?w=801&auto=format%2Ccompress&fit=max&format=webp&dpr=1.0",
+      "video": "Multimedia/politics-video.mp4"
+    },
+    {
+      "id": 4,
+      "title": "No Way Home",
+      "category": "entertainment",
+      "content": "Spider-Man: No Way Home(2021) is one of the most ambitious and emotional films in the Marvel Cinematic Universe (MCU). Directed by Jon Watts, it follows Peter Parker (Tom Holland) as he deals with the fallout of his identity being exposed. Seeking help from Doctor Strange (Benedict Cumberbatch), a spell gone wrong fractures the multiverse, leading to the return of iconic villains like Green Goblin (Willem Dafoe), Doc Ock (Alfred Molina), and Electro (Jamie Foxx)",
+      "image": "https://www.tvguide.com/a/img/catalog/provider/1/2/1-11220379141.jpg",
+      "video": "Multimedia/movie-trailer.mp4"
+    }
+  ]
