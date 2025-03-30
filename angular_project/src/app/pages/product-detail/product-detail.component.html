@@ -1,0 +1,26 @@
+<div class="container">
+  <div class="product-detail">
+    <!-- Product Image -->
+    <img [src]="product.imageUrl" [alt]="product.name" class="product-image img-fluid" />
+
+    <!-- Product Name -->
+    <h2>{{ product.name }}</h2>
+
+    <!-- Price Tag -->
+    <div class="price-tag">${{ product.price }}</div>
+
+    <!-- Description Section -->
+    <div class="description">
+      <h3>Description</h3>
+      <p>{{ product.description }}</p>
+    </div>
+
+    <!-- Features Section -->
+    <div class="features">
+      <h3>Features</h3>
+      <ul>
+        <li *ngFor="let feature of product.features">{{ feature }}</li>
+      </ul>
+    </div>
+  </div>
+</div>
